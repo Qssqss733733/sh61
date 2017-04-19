@@ -1,3 +1,7 @@
 dev test2
+<<<<<<< HEAD
 mastet test2
+=======
+master test2
+>>>>>>> dev
 devdev test2
